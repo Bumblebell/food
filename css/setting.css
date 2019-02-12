@@ -1,0 +1,155 @@
+.body{
+    max-width: 100%;
+}
+
+.back{
+    text-align: center;
+}
+
+.sidebarabout{
+    font-size:13px;
+    margin-left:140px;
+    margin-top:-120px;
+}
+
+.text1{
+    font-size:12px;
+}
+
+.gt{
+margin-left:40px;
+margin-top: 40px;
+}
+
+.ins{
+margin-left:80px;
+}
+
+.info{
+    margin-left: -90px;
+}
+
+.face{
+    text-align: center;
+    color:white;
+    background: blue;
+    font-family: 'Oswald',sans-serif;
+    border: 1px solid blue;
+}
+
+.tw{
+text-align:center;
+color:white;
+background: #00aced;
+font-family: 'Oswald',sans-serif;
+}
+
+.pin{
+text-align:center;
+color:white;
+background: red;
+font-family: 'Oswald',sans-serif;
+}
+
+.txt{
+    font-size: 13px;
+    margin-left:10px;
+}
+.click{
+    margin-top:35px;
+    margin-left:80px;
+}
+
+.txt1{
+    margin-left:140px;
+    margin-top:-80px;
+}
+
+.icon{
+    padding-left: 130px;
+}
+
+#all{
+    background: yellow;
+    height:10px;
+    border: 1px solid yellow;
+}
+
+#li{
+    background: yellow;
+    height:10px;
+    border: 1px solid yellow;
+}
+
+.text{
+    margin-left:4%;
+    font-family: 'Gentium Basic',serif;
+    font-size: 12px;
+    font-style: italic;
+    font-weight: 700;
+    letter-spacing: 1px;
+    padding: 20px;
+    text-transform: lowercase;
+}
+
+.email{
+ border: 1px solid orange;
+ background: orange;
+ text-align:center;
+}
+
+.tx{
+margin-left: -80px;
+margin-top:20px;
+font-size:13px;
+}
+
+.search{
+    font-size: 16px;
+    width:100%;
+    margin-top:-6px;
+    margin-left:40px;
+}
+
+.tieude{
+    font-family: 'Oswald',sans-serif;
+    color: black;
+    font-size:36px;
+}
+
+p{
+    text-align:justify;
+}
+
+.note{
+    margin-left:30px;
+    font-size:12px;
+}
+
+.fa-print{
+border: 1px solid black;
+text-align:center;
+width:200px;
+height:25px;
+}
+
+.anh{
+    margin-left:-120px;
+}
+
+.footer{
+    color: #999;
+    font-size:10px;
+    font-family: 'Gentium Basic',serif;
+    font-style: italic;
+    text-align:center;
+    border-top:1px solid 
+}
+
+.submit{
+    text-align:center;
+    width:700px;
+    height:60px;
+    border: yellow;
+    background:yellow;
+}
